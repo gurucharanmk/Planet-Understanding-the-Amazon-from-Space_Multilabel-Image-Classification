@@ -40,10 +40,10 @@ For this cause [Planet](https://www.planet.com/) released dataset in [Kaggle](ht
 
 #### Score detail
 
-![Alt text](https://github.com/gurucharanmk/COVID-19_chest-xray_classifier/blob/main/images/score.png )
+![Alt text](https://github.com/gurucharanmk/Planet-Understanding-the-Amazon-from-Space_Multilabel-Image-Classification/blob/main/images/score.png )
 
   
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/gurucharanmk/COVID-19_chest-xray_classifier/blob/main/LICENSE)
+This project is licensed under the [MIT License](https://github.com/gurucharanmk/Planet-Understanding-the-Amazon-from-Space_Multilabel-Image-Classification/blob/main/LICENSE)
